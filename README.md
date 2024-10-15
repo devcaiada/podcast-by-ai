@@ -1,7 +1,6 @@
 <p align="center">
 <img 
     src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/banner.png?raw=true"
-    href=
     width="300"
 />
 </p>
@@ -125,12 +124,7 @@ Duração total aproximada: 4:00 – 5:00 minutos.
 
 ## 🎥 Podcast completo no Youtube
 
-<p align="center">
-<img 
-    src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/banner.png?raw=true"
-    href="https://youtu.be/NqBfM6UtRuA"
-/>
-</p>
+[<img src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/CAPA.jpg?raw=true" align="center" width="450" />](https://youtu.be/NqBfM6UtRuA)
 
 ---
 
