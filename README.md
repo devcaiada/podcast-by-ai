@@ -1,6 +1,7 @@
 <p align="center">
 <img 
     src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/banner.png?raw=true"
+    href=
     width="300"
 />
 </p>
@@ -19,6 +20,13 @@
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido para fins didáticos em parceria com a [DIO](https://dio.me)
+
+ <p align="center">
+<img 
+    src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/logo.jpg?raw=true"
+    width="400"
+/>
+</p>
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -56,14 +64,14 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 📚 Materiais
 
-- [Link do podcast no Youtube](https://www.youtube.com)
+- [Link do podcast no Youtube](https://youtu.be/NqBfM6UtRuA)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio gratuito](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Caso queira replicar o projeto, utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
@@ -113,7 +121,16 @@ Até a próxima, e lembre-se: sempre há um insight esperando para ser descobert
 
 ### Encerramento:
 
-Duração total aproximada: 4:30 – 5:00 minutos.
+Duração total aproximada: 4:00 – 5:00 minutos.
+
+## 🎥 Podcast completo no Youtube
+
+<p align="center">
+<img 
+    src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/banner.png?raw=true"
+    href="https://youtu.be/NqBfM6UtRuA"
+/>
+</p>
 
 ---
 
@@ -126,7 +143,7 @@ Duração total aproximada: 4:30 – 5:00 minutos.
       width=80 
       src="https://avatars.githubusercontent.com/u/159327696?s=400&u=9b676bef5a1ffdedaf6e013447380f736f440e1b&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspCaio Arruda<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/devcaiada">
