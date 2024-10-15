@@ -124,7 +124,7 @@ Duração total aproximada: 4:00 – 5:00 minutos.
 
 ## 🎥 Podcast completo no Youtube
 
-[<img src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/CAPA.jpg?raw=true" align="center" width="450" />](https://youtu.be/NqBfM6UtRuA)
+[<img src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/CAPA.jpg?raw=true" align=center />](https://youtu.be/NqBfM6UtRuA)
 
 ---
 
