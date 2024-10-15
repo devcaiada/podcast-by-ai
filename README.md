@@ -24,6 +24,22 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
+## 📄 Prompts e ferramentas
+
+### ChatGPT：
+
+|     Ação     | prompt                                                                                                                                                                                                                                                                                                                |
+| :----------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  **título**  | Estou criando um podcast sobre dados, cobrindo tópicos de engenharia, análise e ciência de dados. O público-alvo inclui profissionais de tecnologia, entusiastas de dados e curiosos em aprender sobre o impacto dos dados na tomada de decisões e inovações. Gostaria de 10 sugestões criativas de nomes para o podcast, incluindo subtítulos que reflitam esse universo técnico e informativo, com uma pegada acessível e interessante para quem deseja se aprofundar no mundo dos dados.                                                                                                                                                                                  |
+| **conteúdo** | Escreva um roteiro para um podcast sobre dados com o nome **Bytes & Insights**, onde o host chama-se Caio Arruda, limitando-se a no máximo 5 minutos de conteúdo.  |
+
+|
+
+### Midjourney：
+
+- No midjourney pedimmos para criar um robô apresentando um podcast, com um background mais aconchegante e que remetesse a temas geeks.
+
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
