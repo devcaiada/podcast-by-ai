@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://github.com/devcaiada/podcast-by-ai/blob/main/output/Introdu%C3%A7%C3%A3o%20a%20Dados%20-%20Bytes%20%26%20Insights%20%231.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -27,9 +27,11 @@
 />
 </p>
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+🤖 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+📝 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
+
+🎙️ O arquivo final encontra-se na pasta **output** desse repositório.
 
 ## 📄 Prompts e ferramentas
 
@@ -124,7 +126,7 @@ Duração total aproximada: 4:00 – 5:00 minutos.
 
 ## 🎥 Podcast completo no Youtube
 
-[<img src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/CAPA.jpg?raw=true" align=center />](https://youtu.be/NqBfM6UtRuA)
+[<img src="https://github.com/devcaiada/podcast-by-ai/blob/main/assets/CAPA.jpg?raw=true" align="center" />](https://youtu.be/NqBfM6UtRuA)
 
 ---
 
